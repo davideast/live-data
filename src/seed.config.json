@@ -1,0 +1,136 @@
+{
+  "restaurants": {
+    "sushi_den": {
+      "name": "Sushi Den",
+      "type": "Sushi",
+      "capacity": 120,
+      "occupants": 0
+    },
+    "punch_bowl_social": {
+      "name": "Punch Bowl Social",
+      "type": "Bar",
+      "capacity": 500,
+      "occupants": 0
+    },
+    "burger_fi": {
+      "name": "Burger Fi",
+      "type": "American",
+      "capacity": 80,
+      "occupants": 0
+    },
+    "yard_house": {
+      "name": "Yard House",
+      "type": "American",
+      "capacity": 310,
+      "occupants": 0
+    },
+    "panzano": {
+      "name": "Panzano",
+      "type": "Italian",
+      "capacity": 90,
+      "occupants": 0
+    },
+    "table_6": {
+      "name": "Table 6",
+      "type": "American",
+      "capacity": 82,
+      "occupants": 0
+    },
+    "hillstone": {
+      "name": "Hillstone",
+      "type": "American",
+      "capacity": 86,
+      "occupants": 0
+    },
+    "roe": {
+      "name": "Roe",
+      "type": "Seafood",
+      "capacity": 120,
+      "occupants": 0
+    },
+    "bamboo_sushi_ne": {
+      "name": "Bamboo Sushi NE",
+      "type": "Sushi",
+      "capacity": 50,
+      "occupants": 0
+    },
+    "lazy_bear": {
+      "name": "Lazy Bear",
+      "type": "American",
+      "capacity": 160,
+      "occupants": 0
+    },
+    "californios": {
+      "name": "Californios",
+      "type": "Mexican",
+      "capacity": 220,
+      "occupants": 0
+    },
+    "delfina": {
+      "name": "Delfina",
+      "type": "Italian",
+      "capacity": 200,
+      "occupants": 0
+    },
+    "marlowe": {
+      "name": "Marlowe",
+      "type": "American",
+      "capacity": 210,
+      "occupants": 0
+    },
+    "sanraku": {
+      "name": "Sanraku",
+      "type": "Japanese",
+      "capacity": 90,
+      "occupants": 0
+    },
+    "nopalito": {
+      "name": "Nopalito",
+      "type": "Mexican",
+      "capacity": 100,
+      "occupants": 0
+    }, 
+    "fog_harbor_fish_house": {
+      "name": "Fog Harbor Fish House",
+      "type": "Seafood",
+      "capcity": 260,
+      "occupants": 0
+    },
+    "the_big_4": {
+      "name": "The Big 4",
+      "type": "American",
+      "capacity": 400,
+      "occupants": 0
+    },
+    "brendas_french_soul_food": {
+      "name": "Brenda's French Soul Food",
+      "type": "French",
+      "capacity": 80,
+      "occupants": 0
+    },
+    "sweet_maple": {
+      "name": "Sweet Maple",
+      "type": "Breakfast",
+      "capcity": 90,
+      "occupants": 0
+    },
+    "el_mansour": {
+      "name": "El Mansour",
+      "type": "Moroccan",
+      "capcity": 40,
+      "occupants": 0
+    },
+    "cliff_house": {
+      "name": "Cliff House",
+      "type": "Seafood",
+      "capcity": 140,
+      "occupants": 0
+    },
+    "beach_chalet": {
+      "name": "Beach Chalet",
+      "type": "American",
+      "capcity": 340,
+      "occupants": 0
+    }
+  }
+}
